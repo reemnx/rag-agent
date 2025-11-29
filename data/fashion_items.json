@@ -1,0 +1,73 @@
+[
+    {
+        "id": "ITEM-001",
+        "title": "Slim-Fit Beige Linen Shirt",
+        "category": "Men/Shirts",
+        "color": "Beige",
+        "fit": "Slim",
+        "season": [
+            "summer",
+            "spring"
+        ],
+        "occasion": [
+            "summer party",
+            "beach wedding",
+            "smart casual"
+        ],
+        "fabric": "100% linen",
+        "price": 79,
+        "description": "Lightweight breathable linen shirt ideal for warm-weather outdoor events.",
+        "tags": [
+            "breathable",
+            "neutral",
+            "lightweight"
+        ]
+    },
+    {
+        "id": "ITEM-002",
+        "title": "Oversized Black Streetwear Jacket",
+        "category": "Men/Jackets",
+        "color": "Black",
+        "fit": "Oversized",
+        "season": [
+            "fall",
+            "winter"
+        ],
+        "occasion": [
+            "night out",
+            "urban",
+            "streetwear"
+        ],
+        "fabric": "Poly-cotton blend",
+        "price": 129,
+        "description": "Bold oversized jacket with a clean streetwear silhouette and modern minimalist look.",
+        "tags": [
+            "street",
+            "urban",
+            "oversized",
+            "black"
+        ]
+    },
+    {
+        "id": "ITEM-003",
+        "title": "Casual Blue Denim Jeans",
+        "category": "Men/Pants",
+        "color": "Blue",
+        "fit": "Regular",
+        "season": [
+            "all-season"
+        ],
+        "occasion": [
+            "daily wear",
+            "casual"
+        ],
+        "fabric": "Denim",
+        "price": 59,
+        "description": "Classic blue denim jeans with a comfortable fit suitable for everyday wear.",
+        "tags": [
+            "denim",
+            "casual",
+            "everyday"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "fashion-assistance-rag",
+  "version": "1.0.0",
+  "description": "RAG Fashion Assistant",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node scripts/seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.3.18",
+    "@langchain/openai": "^0.3.14",
+    "@qdrant/js-client-rest": "^1.12.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "langchain": "^0.3.6"
+  }
+}
